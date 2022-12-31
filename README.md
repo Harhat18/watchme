@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`]()
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/Harhat18/watchme/blob/main/Ekran%20Resmi%202022-01-01%2002.13.08.png)
 
 ![Project Preview](./watchme.png)
 
