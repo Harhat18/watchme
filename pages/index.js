@@ -1,7 +1,8 @@
 import Hero from "../components/Hero";
-export default function Home() {
+
+export default function Home({ movies }) {
   return (
-    <div>
+    <div className="bg-gray-700">
       <Hero />
     </div>
   );
