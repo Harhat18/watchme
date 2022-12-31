@@ -2,8 +2,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 <img width="978" alt="Ekran Resmi 2022-01-01 02 13 08" src="https://user-images.githubusercontent.com/111196660/210157395-ae425c14-70f4-4487-a76c-196c0cc7d85b.png">
 
-![Project Preview](./watchme.png)
-
 ## Available Scripts
 
 In the project directory, you can run:
